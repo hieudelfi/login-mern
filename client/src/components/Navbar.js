@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Link, withRouter } from 'react-router-dom';
-import Landing from './Landing';
 class Landing extends  Component {
     loutOut(e) {
         e.preventDefault();
